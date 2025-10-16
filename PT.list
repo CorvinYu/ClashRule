@@ -2,6 +2,13 @@
 DOMAIN-KEYWORD,rousi
 DOMAIN-KEYWORD,nicept
 DOMAIN-KEYWORD,kame
+DOMAIN-KEYWORD,tra
+DOMAIN-KEYWORD,halomt
+DOMAIN-KEYWORD,manfuz
+
+
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,rousi.zip
-
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
